@@ -4,7 +4,7 @@
 
 -The project is developed in Unity 2019.4.6f1
 
--The project is developed using an obeserver pattern
+-The project is developed using an observer pattern
 
 -It is ready to be compiled in Standalone and you already have a compiled version compresed in .rar in the folder
 
